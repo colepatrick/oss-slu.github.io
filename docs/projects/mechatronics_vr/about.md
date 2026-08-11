@@ -35,9 +35,11 @@ Key Features
 - **Client** Dr. Madi Babaiasl
 - **Track:** Client-driven Product
 <!-- - **Staff Developer:** Staff Developer Name [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) -->
-- **Current Tech Lead:** Anthony Russo [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AanthonyRusso)
+- **Current Tech Lead:** Cole Patrick [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colepatrick) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/cole-patrick/)
 - **Developers:**
-
+  - TBD (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/)
+  - TBD (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/)
+  - Anthony Russo (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/AanthonyRusso)
   - Bryce Hayes (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/bhayes04)
   - Matt Murawski (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/MatthewMurawski)
   - Julian Shniter (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/smallrussian)

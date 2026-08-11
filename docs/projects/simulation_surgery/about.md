@@ -18,9 +18,12 @@ By combining advanced 3D medical imaging, segmentation algorithms, and simulatio
 - **Track:** Client-driven Product
 - **License:** [MIT](https://opensource.org/license/mit)
 
-- **Current Tech Lead:** Sri Ram Duvvuri [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sriram1302)
+- **Current Tech Lead:** Cole Patrick [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colepatrick) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/cole-patrick/)
 
 - **Developers:**
+  - TBD (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/)
+  - TBD (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/)
+  - Sri Ram Duvvuri (prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sriram1302)
   - Rawan Alhachami (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rawana7912)
   - Sahana Gujja (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/sahanagujja)
   - Zhihui Wu (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Zhihuiwu646)
